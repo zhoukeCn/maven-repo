@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 18:07:18 CST 2018
+https\://raw.githubusercontent.com/muchcontact/maven-repo/master/releases/.error=
+http\://repo.typesafe.com/typesafe/maven-releases/.lastUpdated=1524729793406
+https\://raw.githubusercontent.com/lychie/maven-repo/master/snapshots/.lastUpdated=1524729790456
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1524737238549
+https\://raw.githubusercontent.com/lychie/maven-repo/master/snapshots/.error=
+https\://raw.githubusercontent.com/muchcontact/maven-repo/master/releases/.lastUpdated=1524729793777
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://repo.typesafe.com/typesafe/maven-releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1524729798902
+https\://repo.maven.apache.org/maven2/.error=
